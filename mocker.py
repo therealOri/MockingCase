@@ -321,7 +321,7 @@ def transform_code(source_code: str, config: TransformConfig) -> Tuple[str, Dict
 if __name__ == '__main__':
     clear()
     print(f'{banner()}\n\n\n')
-    file_path = beaupy.prompt("Path to the file you want to format:")
+    file_path = beaupy.prompt("Path to the file you want to format - (drag & drop):")
     if not file_path:
         clear()
         quit()
