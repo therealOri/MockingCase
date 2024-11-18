@@ -15,6 +15,19 @@ __ __
 __ __
 > Other case options include: Snake, Camel, and Pascal
 
+<br>
+<br>
+
+# Install
+```bash
+git clone https://github.com/therealOri/MockingCase.git
+cd MockingCase
+virtualenv mkgENV
+source mkgENV/bin/activate   #Will be different if on windows
+pip install -r requirements.txt
+python mocker.py
+```
+__ __
 
 <br>
 <br>
