@@ -71,7 +71,7 @@ PYTHON_BUILTINS = {
     '__init__', '__str__', '__repr__', '__len__', '__getitem__', '__setitem__',
     '__delitem__', '__iter__', '__next__', '__contains__', '__call__', '__add__',
     '__sub__', '__mul__', '__div__', '__mod__', '__pow__', '__eq__', '__ne__',
-    '__lt__', '__gt__', '__le__', '__ge__'
+    '__lt__', '__gt__', '__le__', '__ge__', '__name__'
 }
 
 
